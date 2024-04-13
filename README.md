@@ -1,3 +1,6 @@
 # New project
 
-This projrct was created from local system.
+This project was created from local system.
+
+# Name
+Created by Sagar.
